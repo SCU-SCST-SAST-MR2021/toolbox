@@ -18,12 +18,12 @@
 2. 🆓**Visual Studio**： Microsoft出品，用于C++/C#等的开发（社区版免费）https://visualstudio.microsoft.com/zh-hans/
 3. 🆓**IntelliJ IDEA**： JetBrains出品，用于Java开发（社区版免费）https://www.jetbrains.com/idea/download/
 4. 🆓**PyCharm**： JetBrains出品，用于Python开发（社区版免费）https://www.jetbrains.com/pycharm/
-5. 🆓**WebStorm**： JetBrains出品，用于前端开发（教育版免费[^1]）https://www.jetbrains.com/webstorm/
-6. 🆓**CLion**： JetBrains出品，用于C/C++开发（教育版免费[^1]）https://www.jetbrains.com/clion
-7. 🆓**GoLand**：JetBrains出品，用于golang开发（教育版免费[^1]）https://www.jetbrains.com/go
+5. 🆓**WebStorm**： JetBrains出品，用于前端开发（教育版免费✱）https://www.jetbrains.com/webstorm/
+6. 🆓**CLion**： JetBrains出品，用于C/C++开发（教育版免费✱）https://www.jetbrains.com/clion
+7. 🆓**GoLand**：JetBrains出品，用于golang开发（教育版免费✱）https://www.jetbrains.com/go
 8. 🆓**微信开发者工具**： 腾讯出品，用于开发微信小程序 https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
 
-[^1]: 需要提供学信网开具的学籍证明
+✱：需要提供学信网开具的学籍证明
 
 ### 编辑器
 
