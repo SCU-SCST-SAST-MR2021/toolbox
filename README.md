@@ -36,7 +36,7 @@
 
 1. ✨**git**： 最著名的版本控制工具 https://git-scm.com/
 2. ✨**Sourcetree**： **git**可视化软件 https://www.sourcetreeapp.com/
-3. 🌐**Github**：基于**git**的源代码托管服务平台 ~~世界最大同性恋交友网站~~ https://github.com/
+3. 🌐**Github**：基于**git**的源代码托管服务平台 https://github.com/
 4. ✨**Anaconda**： Python和R语言的包管理工具 https://www.anaconda.com/
 5. ✨**Maven**： Java项目构建和依赖管理的工具 https://maven.apache.org/
 6.  🆓**Postman**：构建http 请求，测试api（基础版免费） https://www.postman.com/
@@ -72,9 +72,11 @@
 15. 📦**opencv**：机器视觉 https://docs.opencv.org/master/d6/d00/tutorial_py_root.html
 16. 📦**pillow**：图像处理 https://pillow.readthedocs.io/en/stable/
 
-#### 教程
+了解更多：
 
-收费教程不予收录。
+- 🌐[awesome-python](https://github.com/vinta/awesome-python) | [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
+
+#### 教程
 
 - 🌐Python官方文档-入门教程：https://docs.python.org/zh-cn/3/tutorial/index.html
 - 🌐廖雪峰：https://www.liaoxuefeng.com/wiki/1016959663602400
@@ -82,6 +84,51 @@
 - 🌐菜鸟教程：https://www.runoob.com/python3/python3-tutorial.html
 - 🌐w3school：https://www.w3schools.com/python/
 - 🌐pyformat： 关于python格式化字符串的详尽说明 https://pyformat.info/
+
+### 前端开发
+
+#### 前端框架
+
+最流行的两个JavaScript框架：
+
+1. 📦**React**：https://reactjs.org/
+2. 📦**Vue3**：https://v3.cn.vuejs.org/
+
+CSS框架太多了，在此只列举几个：
+
+1. 📦**tailwindcss**：https://tailwindcss.com/
+2. 📦**Bootstrap**：https://v4.bootcss.com/
+3. 📦**Materialize**：https://materializecss.com/
+4. 📦**Uikit**：https://getuikit.com/
+5. 📦**miligram**：https://milligram.io/
+
+UI框架：
+
+- 支持Vue的UI框架：
+  1. 📦**Vuetify**：https://vuetifyjs.com/zh-Hans/
+  2. 📦**Vue Material**：https://www.creative-tim.com/vuematerial/
+  3. 📦**Element UI**：https://element.eleme.cn/
+  4. 📦**Ant Design of Vue**：**antd**的Vue实现 https://antdv.com/
+- 支持React的UI库：（react方面不是很了解，欢迎补充）
+  1. 📦**antd**：https://ant.design/
+
+#### 常用包
+
+1. 📦**TypeScript**：在JavaScript之上添加了对类型系统的支持 https://www.typescriptlang.org/
+2. 📦**pug**：模板语言，最终渲染成html，语法较html简便许多 https://pugjs.org/
+3. 📦**sass**：css扩展语言，最终渲染成css，语法较css简便许多 https://sass-lang.com/
+4. 📦**Axios**：Promise风格的异步http客户端 https://axios-http.com/docs/api_intro/
+
+了解更多：
+
+- 🌐[awesome-javascript](https://github.com/sorrycc/awesome-javascript) | [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)
+
+#### 教程
+
+1. 🌐MDN Web Docs：https://developer.mozilla.org/zh-CN/docs/Web
+2. 🌐菜鸟教程：[HTML 教程](https://www.runoob.com/html/html-tutorial.html) | [JavaScript 教程](https://www.runoob.com/js/js-tutorial.html) | [CSS 教程](https://www.runoob.com/css/css-tutorial.html)
+3. 🌐W3school（中文）：https://www.w3school.com.cn/
+4. 🌐W3school（英文）：https://www.w3schools.com/
 
 
 
@@ -102,6 +149,7 @@
 9. ✨**Wox**： Windows启动器，与**Everything**结合使用效果更佳 https://github.com/Wox-launcher/Wox
 10. ✨**QuickLook**：用空格键快速查看文件信息，MacOS同名功能的Windows版 https://github.com/QL-Win/QuickLook
 11. ✨**Ditto**：Windows剪贴板扩展 https://ditto-cp.sourceforge.io/
+12. ✨**Sumatra PDF**： 轻量级PDF阅读器，同时支持ePub, MOBI, CHM, XPS, DjVu等多种电子书格式 https://www.sumatrapdfreader.org/free-pdf-reader
 
 ### 虚拟机/子系统
 
@@ -117,4 +165,7 @@
 2. 🆓**GPU-Z**：查看显卡信息 https://www.techpowerup.com/gpuz/
 3. ✨**CrystalDiskInfo**：查看硬盘信息 https://crystalmark.info/en/software/crystaldiskinfo/
 4. ✨**CrystalDiskMark**： 硬盘测试软件 https://crystalmark.info/en/software/crystaldiskmark/
+5. ✨**WinDirStat**：磁盘使用量统计分析器 https://windirstat.net
+
+### 
 
