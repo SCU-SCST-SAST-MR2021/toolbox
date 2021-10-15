@@ -81,7 +81,7 @@ CSS框架太多了，在此只列举几个：
 
 支持React的UI库：（react方面不是很了解，欢迎补充）
 {{#datasheet: 📦
-, antd, , https://ant.design/
+, antd, , https://ant.design/, https://ant.design/index-cn
 }}
 
 #### 常用包

@@ -31,6 +31,7 @@
   - 若无注明……点进去看了就知道了（大部分是英文）
   - （这两个emoji在部分设备上显示为字母）
 
+<!-- included file: devtools.md -->
 ## 开发工具类
 
 ### 集成开发环境 (IDE)
@@ -43,6 +44,9 @@
 6. 🆓**CLion**：JetBrains出品，用于C/C++开发（教育版免费✱） https://www.jetbrains.com/clion
 7. 🆓**GoLand**：JetBrains出品，用于golang开发（教育版免费✱） https://www.jetbrains.com/go
 8. 🆓**微信开发者工具**：腾讯出品，用于开发微信小程序 https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
+9. 💰**Github Codespaces**：Github推出的在线IDE，界面与**VS Code**相似 
+   - 英文：https://docs.github.com/en/codespaces
+   - 中文：https://docs.github.com/cn/codespaces
 
 
 ✱：需要提供学信网开具的学籍证明
@@ -66,6 +70,7 @@
 
 
 
+<!-- included file: lang.md -->
 ## 编程语言相关
 
 ### Python
@@ -162,7 +167,9 @@ CSS框架太多了，在此只列举几个：
 
 
 支持React的UI库：（react方面不是很了解，欢迎补充）
-1. 📦**antd**：https://ant.design/
+1. 📦**antd**：
+   - 英文：https://ant.design/
+   - 中文：https://ant.design/index-cn
 
 
 #### 常用包
@@ -190,6 +197,7 @@ CSS框架太多了，在此只列举几个：
    - 中文：https://www.w3school.com.cn/
 
 
+<!-- included file: othersofts.md -->
 ## 其它软件
 
 ### Windows工具箱
@@ -208,6 +216,18 @@ CSS框架太多了，在此只列举几个：
 10. 🪟✨**QuickLook**：用空格键快速查看文件信息，MacOS同名功能的Windows版 https://github.com/QL-Win/QuickLook
 11. 🪟✨**Ditto**：Windows剪贴板扩展 https://ditto-cp.sourceforge.io/
 12. 🪟✨**Sumatra PDF**：轻量级PDF阅读器，同时支持ePub、MOBI、CHM、XPS、DjVu等多种电子书格式 https://www.sumatrapdfreader.org/free-pdf-reader
+
+
+### 浏览器插件
+适用于Chromium内核的浏览器，如Chrome与Microsoft Edge。
+
+1. 📦**Clear New Tab**：用图片做首页。
+2. 📦**HTTPS Everywhere**：加密网络浏览，自动使用 HTTPS 连接访问站点
+3. 📦**Tampermonkey**：加载自定义JavaScript脚本
+4. 📦**FireShot**：捕捉网页截图
+5. 📦**OneTab**：一键整理标签页
+6. 📦**Stylish**：加载自定义CSS
+7. 📦**Speedtest**：测速
 
 
 ### 虚拟机/子系统
@@ -229,6 +249,7 @@ CSS框架太多了，在此只列举几个：
 5. 🪟✨**WinDirStat**：磁盘使用量统计分析器 https://windirstat.net
 
 
+<!-- included file: othersites.md -->
 ## 其它网站
 
 其中有些需要科学上网才能访问。

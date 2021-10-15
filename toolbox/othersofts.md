@@ -19,6 +19,19 @@
 ✨, Sumatra PDF, 轻量级PDF阅读器，同时支持ePub、MOBI、CHM、XPS、DjVu等多种电子书格式, https://www.sumatrapdfreader.org/free-pdf-reader
 }}
 
+### 浏览器插件
+适用于Chromium内核的浏览器，如Chrome与Microsoft Edge。
+
+{{#datasheet: 📦
+, Clear New Tab, 用图片做首页。
+, HTTPS Everywhere, 加密网络浏览，自动使用 HTTPS 连接访问站点
+, Tampermonkey, 加载自定义JavaScript脚本
+, FireShot, 捕捉网页截图
+, OneTab, 一键整理标签页
+, Stylish, 加载自定义CSS
+, Speedtest, 测速
+}}
+
 ### 虚拟机/子系统
 
 想在Windows上体验Linux/在MacOS上体验Windows和Linux/Linux上体验Windows 的同学可以试试。
