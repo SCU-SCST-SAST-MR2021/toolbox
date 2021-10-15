@@ -4,13 +4,15 @@
 
 ### 开源软件镜像站
 
-1. 🌐**清华大学开源软件镜像站**：https://mirrors.tuna.tsinghua.edu.cn/
-2. 🌐**浙江大学开源镜像站**：http://mirrors.zju.edu.cn/
-3. 🌐**中国科技大学开源软件镜像站**：https://mirrors.ustc.edu.cn/
-4. 🌐**南京大学开源镜像站**：http://mirrors.nju.edu.cn/
-5. 🌐**阿里巴巴开源镜像站**：https://developer.aliyun.com/mirror/
-6. 🌐**华为开源镜像站**：https://mirrors.huaweicloud.com/home
-7. 🌐**腾讯软件源**：https://mirrors.cloud.tencent.com/
+{{#datasheet:🌐
+, 清华大学开源软件镜像站, , https://mirrors.tuna.tsinghua.edu.cn/
+, 浙江大学开源镜像站, , http://mirrors.zju.edu.cn/
+, 中国科技大学开源软件镜像站, , https://mirrors.ustc.edu.cn/
+, 南京大学开源镜像站, , http://mirrors.nju.edu.cn/
+, 阿里巴巴开源镜像站, , https://developer.aliyun.com/mirror/
+, 华为开源镜像站, , https://mirrors.huaweicloud.com/home
+, 腾讯软件源, , https://mirrors.cloud.tencent.com/
+}}
 
 ### 教程/学习资源
 
