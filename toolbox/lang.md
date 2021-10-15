@@ -24,6 +24,7 @@
 , scikit-learn, 常用的机器学习算法的集合, https://scikit-learn.org/stable/
 , django, web服务器框架, https://www.djangoproject.com/
 , flask, 轻量级web服务器框架，相较于django更适合一些小项目, https://flask.palletsprojects.com/en/2.0.x/
+, jinja, 基于python的一种模板渲染引擎, https://jinja.palletsprojects.com/en/3.0.x/
 , Jupyter, 基于python的交互式notebook，常用于数据科学, https://jupyter.org/
 , PyQt5, Qt框架的Python API, https://www.riverbankcomputing.com/static/Docs/PyQt5/
 , pyInstaller, 将python脚本打包成可执行程序的工具, https://www.pyinstaller.org/
@@ -53,15 +54,15 @@
 最流行的两个JavaScript框架：
 
 {{#datasheet: 📦
-, React, , https://reactjs.org/
-, Vue3, , https://v3.cn.vuejs.org/
+, React, , https://reactjs.org/, https://zh-hans.reactjs.org/
+, Vue3, , https://v3.vuejs.org/, https://v3.cn.vuejs.org/
 }}
 
 CSS框架太多了，在此只列举几个：
 
 {{#datasheet: 📦
 , tailwindcss, , https://tailwindcss.com/
-, Bootstrap, , https://v4.bootcss.com/
+, Bootstrap, , https://getbootstrap.com/, https://v4.bootcss.com/
 , Materialize, , https://materializecss.com/
 , Uikit, , https://getuikit.com/
 , miligram, , https://milligram.io/
@@ -71,10 +72,11 @@ CSS框架太多了，在此只列举几个：
 
 支持Vue的UI框架：
 {{#datasheet: 📦
-, Vuetify, , https://vuetifyjs.com/zh-Hans/
+, Vuetify, , https://vuetifyjs.com/en/, https://vuetifyjs.com/zh-Hans/
 , Vue Material, , https://www.creative-tim.com/vuematerial/
 , Element UI, , https://element.eleme.cn/
 , Ant Design of Vue, **antd**的Vue实现, https://antdv.com/
+, Naive UI, , https://www.naiveui.com/en-US/os-theme, https://www.naiveui.com/zh-CN/os-theme
 }}
 
 支持React的UI库：（react方面不是很了解，欢迎补充）
@@ -85,10 +87,10 @@ CSS框架太多了，在此只列举几个：
 #### 常用包
 
 {{#datasheet: 📦
-, TypeScript, 在JavaScript之上添加了对类型系统的支持, https://www.typescriptlang.org/
+, TypeScript, 在JavaScript之上添加了对类型系统的支持, https://www.typescriptlang.org/, https://www.typescriptlang.org/zh/
 , pug, 模板语言，最终渲染成html，语法较html简便许多, https://pugjs.org/
 , sass, css扩展语言，最终渲染成css，语法较css简便许多, https://sass-lang.com/
-, Axios, Promise风格的异步http客户端, https://axios-http.com/docs/api_intro/
+, Axios, Promise风格的异步http客户端, https://axios-http.com/docs/api_intro/b, https://axios-http.com/zh/docs/api_intro
 }}
 
 了解更多：

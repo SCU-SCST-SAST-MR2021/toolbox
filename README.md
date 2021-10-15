@@ -100,11 +100,12 @@
 9. 📦**scikit-learn**：常用的机器学习算法的集合 https://scikit-learn.org/stable/
 10. 📦**django**：web服务器框架 https://www.djangoproject.com/
 11. 📦**flask**：轻量级web服务器框架，相较于django更适合一些小项目 https://flask.palletsprojects.com/en/2.0.x/
-12. 📦**Jupyter**：基于python的交互式notebook，常用于数据科学 https://jupyter.org/
-13. 📦**PyQt5**：Qt框架的Python API https://www.riverbankcomputing.com/static/Docs/PyQt5/
-14. 📦**pyInstaller**：将python脚本打包成可执行程序的工具 https://www.pyinstaller.org/
-15. 📦**opencv**：机器视觉 https://docs.opencv.org/master/d6/d00/tutorial_py_root.html
-16. 📦**pillow**：图像处理 https://pillow.readthedocs.io/en/stable/
+12. 📦**jinja**：基于python的一种模板渲染引擎 https://jinja.palletsprojects.com/en/3.0.x/
+13. 📦**Jupyter**：基于python的交互式notebook，常用于数据科学 https://jupyter.org/
+14. 📦**PyQt5**：Qt框架的Python API https://www.riverbankcomputing.com/static/Docs/PyQt5/
+15. 📦**pyInstaller**：将python脚本打包成可执行程序的工具 https://www.pyinstaller.org/
+16. 📦**opencv**：机器视觉 https://docs.opencv.org/master/d6/d00/tutorial_py_root.html
+17. 📦**pillow**：图像处理 https://pillow.readthedocs.io/en/stable/
 
 
 了解更多：
@@ -127,14 +128,20 @@
 
 最流行的两个JavaScript框架：
 
-1. 📦**React**：https://reactjs.org/
-2. 📦**Vue3**：https://v3.cn.vuejs.org/
+1. 📦**React**：
+   - 英文：https://reactjs.org/
+   - 中文：https://zh-hans.reactjs.org/
+2. 📦**Vue3**：
+   - 英文：https://v3.vuejs.org/
+   - 中文：https://v3.cn.vuejs.org/
 
 
 CSS框架太多了，在此只列举几个：
 
 1. 📦**tailwindcss**：https://tailwindcss.com/
-2. 📦**Bootstrap**：https://v4.bootcss.com/
+2. 📦**Bootstrap**：
+   - 英文：https://getbootstrap.com/
+   - 中文：https://v4.bootcss.com/
 3. 📦**Materialize**：https://materializecss.com/
 4. 📦**Uikit**：https://getuikit.com/
 5. 📦**miligram**：https://milligram.io/
@@ -143,10 +150,15 @@ CSS框架太多了，在此只列举几个：
 ##### UI框架
 
 支持Vue的UI框架：
-1. 📦**Vuetify**：https://vuetifyjs.com/zh-Hans/
+1. 📦**Vuetify**：
+   - 英文：https://vuetifyjs.com/en/
+   - 中文：https://vuetifyjs.com/zh-Hans/
 2. 📦**Vue Material**：https://www.creative-tim.com/vuematerial/
 3. 📦**Element UI**：https://element.eleme.cn/
 4. 📦**Ant Design of Vue**：**antd**的Vue实现 https://antdv.com/
+5. 📦**Naive UI**：
+   - 英文：https://www.naiveui.com/en-US/os-theme
+   - 中文：https://www.naiveui.com/zh-CN/os-theme
 
 
 支持React的UI库：（react方面不是很了解，欢迎补充）
@@ -155,10 +167,14 @@ CSS框架太多了，在此只列举几个：
 
 #### 常用包
 
-1. 📦**TypeScript**：在JavaScript之上添加了对类型系统的支持 https://www.typescriptlang.org/
+1. 📦**TypeScript**：在JavaScript之上添加了对类型系统的支持 
+   - 英文：https://www.typescriptlang.org/
+   - 中文：https://www.typescriptlang.org/zh/
 2. 📦**pug**：模板语言，最终渲染成html，语法较html简便许多 https://pugjs.org/
 3. 📦**sass**：css扩展语言，最终渲染成css，语法较css简便许多 https://sass-lang.com/
-4. 📦**Axios**：Promise风格的异步http客户端 https://axios-http.com/docs/api_intro/
+4. 📦**Axios**：Promise风格的异步http客户端 
+   - 英文：https://axios-http.com/docs/api_intro/b
+   - 中文：https://axios-http.com/zh/docs/api_intro
 
 
 了解更多：
@@ -237,6 +253,7 @@ CSS框架太多了，在此只列举几个：
 5. 🌐**中国大学MOOC**：https://www.icourse163.org/
 6. 🌐**廖雪峰的官方网站**：https://www.liaoxuefeng.com/
 
+
 ### 工具
 
 1. 🌐**在线正则表达式测试**：https://tool.oschina.net/regex/
@@ -244,21 +261,25 @@ CSS框架太多了，在此只列举几个：
 3. 🌐**regexper**：用英语解释正则表达式 https://regexper.com/
 4. 🌐**explainshell**：用英语解释bash指令 https://explainshell.com/explain
 5. 🌐**Symbolab**：可以帮忙解决一些数学问题 https://zs.symbolab.com/
-6. **🌐wolframAlpha**：线上问答系统，当然也能帮你解决数学问题 https://www.wolframalpha.com/
-7. **🌐DeepL翻译器**：https://www.deepl.com/translator
+6. 🌐**wolframAlpha**：线上问答系统，当然也能帮你解决数学问题 https://www.wolframalpha.com/
+7. 🌐**DeepL翻译器**：https://www.deepl.com/translator
 8. 🌐**Mag[i]**：机器学习加持的信息检索系统 https://magi.com/
 9. 🌐**Wayback Machine**：网站时光机 https://web.archive.org/
 10. 🌐**Archive.today**：网页存档站 https://archive.is/
 
+
 ### 百科类
 
-1. **🌐维基百科**：https://zh.wikipedia.org/
+1. 🌐**维基百科**：
+   - 英文：https://en.wikipedia.org/
+   - 中文：https://zh.wikipedia.org/
 2. 🌐**Unicode 字符百科**：https://unicode-table.com/cn/
 3. 🌐**Encycolorpedia**：色彩百科 https://encycolorpedia.cn/
 4. 🌐**Emojipedia**：emoji百科 https://emojipedia.org/
 5. 🌐**Forvo**：发音词典，收集了世界上大量不同语言的单词的发音 https://zh.forvo.com/
 6. 🌐**维基词典**：https://zh.wiktionary.org/
-7. 🌐**Encyclopedia Britannica**（大英百科全书）：https://www.britannica.com/
+7. 🌐**Encyclopedia Britannica**：（大英百科全书）：https://www.britannica.com/
+
 
 ### 设计资源
 
@@ -267,16 +288,27 @@ CSS框架太多了，在此只列举几个：
 3. 🌐**xicons**：图标库 https://www.xicons.org/
 4. 🌐**iconfont**：图标库 https://www.iconfont.cn/
 
+
 ### 资料/书籍
 
-1. 🌐**维基文库**：https://zh.wikisource.org/
-2. 🌐**世界数字图书馆**：https://www.wdl.org/zh/
-3. 🌐**中国哲学书电子化计划**：https://ctext.org/zhs
+1. 🌐**维基文库**：
+   - 英文：https://en.wikisource.org/
+   - 中文：https://zh.wikisource.org/
+2. 🌐**世界数字图书馆**：
+   - 英文：https://www.wdl.org/en/
+   - 中文：https://www.wdl.org/zh/
+3. 🌐**中国哲学书电子化计划**：
+   - 英文：https://ctext.org/ens
+   - 中文：https://ctext.org/zhs
 4. 🌐**Project Gutenberg**：https://www.gutenberg.org/
 5. 🌐**z-Library**：https://z-lib.org
 6. 🌐**dblp**：计算机领域科学文献目录 https://dblp.org/
 
+
 ### 数据/数据集
 
-1. 🌐**世界银行公开数据**：https://data.worldbank.org.cn/
+1. 🌐**世界银行公开数据**：
+   - 英文：https://data.worldbank.org/
+   - 中文：https://data.worldbank.org.cn/
 2. 🌐**kaggle**：https://www.kaggle.com/
+

@@ -44,3 +44,4 @@ if __name__=="__main__":
 
     with open(OUTPUT_FILE,"w",encoding="utf-8") as f:
         f.write(parsefile(INPUT_FILE))
+    print("Program finished.")
