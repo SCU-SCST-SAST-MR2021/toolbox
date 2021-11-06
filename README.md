@@ -25,12 +25,8 @@
   - 🐧：Linux
   - 🍏：Apple
   - 若无注明皆为🪟🐧🍏全平台通用
-- 语言：
-  - 🇨🇳：中文
-  - 🇬🇧：英文
-  - 若无注明……点进去看了就知道了（大部分是英文）
-  - （这两个emoji在部分设备上显示为字母）
 
+  
 <!-- included file: devtools.md -->
 ## 开发工具类
 
@@ -216,6 +212,7 @@ CSS框架太多了，在此只列举几个：
 10. 🪟✨**QuickLook**：用空格键快速查看文件信息，MacOS同名功能的Windows版 https://github.com/QL-Win/QuickLook
 11. 🪟✨**Ditto**：Windows剪贴板扩展 https://ditto-cp.sourceforge.io/
 12. 🪟✨**Sumatra PDF**：轻量级PDF阅读器，同时支持ePub、MOBI、CHM、XPS、DjVu等多种电子书格式 https://www.sumatrapdfreader.org/free-pdf-reader
+13. 🪟✨**MacType**：为Windows系统安装苹果字体 https://www.mactype.net/
 
 
 ### 浏览器插件
@@ -255,6 +252,8 @@ CSS框架太多了，在此只列举几个：
 其中有些需要科学上网才能访问。
 
 ### 开源软件镜像站
+
+🌐 **教育网开源软件镜像站总表**：https://mirrorz.org/list
 
 1. 🌐**清华大学开源软件镜像站**：https://mirrors.tuna.tsinghua.edu.cn/
 2. 🌐**浙江大学开源镜像站**：http://mirrors.zju.edu.cn/

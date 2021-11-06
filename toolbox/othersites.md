@@ -4,6 +4,8 @@
 
 ### 开源软件镜像站
 
+🌐 **教育网开源软件镜像站总表**：https://mirrorz.org/list
+
 {{#datasheet:🌐
 , 清华大学开源软件镜像站, , https://mirrors.tuna.tsinghua.edu.cn/
 , 浙江大学开源镜像站, , http://mirrors.zju.edu.cn/

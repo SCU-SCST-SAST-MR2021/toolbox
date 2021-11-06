@@ -17,6 +17,7 @@
 ✨, QuickLook, 用空格键快速查看文件信息，MacOS同名功能的Windows版, https://github.com/QL-Win/QuickLook
 ✨, Ditto, Windows剪贴板扩展, https://ditto-cp.sourceforge.io/
 ✨, Sumatra PDF, 轻量级PDF阅读器，同时支持ePub、MOBI、CHM、XPS、DjVu等多种电子书格式, https://www.sumatrapdfreader.org/free-pdf-reader
+✨, MacType, 为Windows系统安装苹果字体, https://www.mactype.net/
 }}
 
 ### 浏览器插件
