@@ -52,6 +52,7 @@
 2. 🪟✨**Notepad++**：文本编辑器，一般用于替代Windows的内置记事本 https://notepad-plus-plus.org/
 3. 🪟✨**Notepads**：文本编辑器，较前者更为美观，是Windows记事本的另一个替代品 https://www.notepadsapp.com/
 4. 🆓**Typora**：很好用的Markdown编辑器 https://typora.io/
+5. ✨**MarkText**：一般好用的Markdown编辑器 https://github.com/marktext/marktext
 
 
 ### 辅助开发
@@ -63,6 +64,9 @@
 5. ✨**Anaconda**：Python和R语言的包管理工具 https://www.anaconda.com/
 6. ✨**Maven**：Java项目构建和依赖管理的工具 https://maven.apache.org/
 7. 🆓**Postman**：构建http 请求，测试api（基础版免费） https://www.postman.com/
+8. 🪟✨**Windows terminal**：微软出品的windows下模拟终端程序，好看高效 https://github.com/microsoft/terminal
+9. 🪟✨**MSYS2**：windows下的pacman包管理工具 https://www.msys2.org/
+10. ✨**lazygit**：好用的git的tui工具 https://github.com/jesseduffield/lazygit
 
 
 
@@ -215,16 +219,23 @@ CSS框架太多了，在此只列举几个：
 13. 🪟✨**MacType**：为Windows系统安装苹果字体 https://www.mactype.net/
 
 
+### 跨平台工具箱
+
+1. ✨**Motrix**：下载工具，支持ftp、BT、磁力链接等 https://motrix.app/zh-CN/
+2. ✨**YesPlayMusic**：第三方网易云，全平台可安装，也有web版 https://github.com/qier222/YesPlayMusic
+
+
 ### 浏览器插件
 适用于Chromium内核的浏览器，如Chrome与Microsoft Edge。
 
 1. 📦**Clear New Tab**：用图片做首页。
-2. 📦**HTTPS Everywhere**：加密网络浏览，自动使用 HTTPS 连接访问站点
-3. 📦**Tampermonkey**：加载自定义JavaScript脚本
-4. 📦**FireShot**：捕捉网页截图
-5. 📦**OneTab**：一键整理标签页
-6. 📦**Stylish**：加载自定义CSS
-7. 📦**Speedtest**：测速
+2. 📦**Infinity Tab**：好用的new tab插件。
+3. 📦**HTTPS Everywhere**：加密网络浏览，自动使用 HTTPS 连接访问站点
+4. 📦**Tampermonkey**：加载自定义JavaScript脚本
+5. 📦**FireShot**：捕捉网页截图
+6. 📦**OneTab**：一键整理标签页
+7. 📦**Stylish**：加载自定义CSS
+8. 📦**Speedtest**：测速
 
 
 ### 虚拟机/子系统
