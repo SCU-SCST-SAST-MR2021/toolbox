@@ -20,11 +20,19 @@
 ✨, MacType, 为Windows系统安装苹果字体, https://www.mactype.net/
 }}
 
+### 跨平台工具箱
+
+{{#datasheet:
+✨, Motrix, 下载工具，支持ftp、BT、磁力链接等, https://motrix.app/zh-CN/
+✨, YesPlayMusic, 第三方网易云，全平台可安装，也有web版, https://github.com/qier222/YesPlayMusic
+}}
+
 ### 浏览器插件
 适用于Chromium内核的浏览器，如Chrome与Microsoft Edge。
 
 {{#datasheet: 📦
 , Clear New Tab, 用图片做首页。
+, Infinity Tab, 好用的new tab插件。
 , HTTPS Everywhere, 加密网络浏览，自动使用 HTTPS 连接访问站点
 , Tampermonkey, 加载自定义JavaScript脚本
 , FireShot, 捕捉网页截图
