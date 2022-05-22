@@ -61,6 +61,7 @@
 , Bootstrap 图标库, , https://icons.bootcss.com/
 , xicons, 图标库, https://www.xicons.org/
 , iconfont, 图标库, https://www.iconfont.cn/
+, Nerd Fonts, 合并了Awesome等字符集的字体，https://www.nerdfonts.com/
 }}
 
 ### 资料/书籍
@@ -79,4 +80,9 @@
 {{#datasheet:🌐
 , 世界银行公开数据, , https://data.worldbank.org/, https://data.worldbank.org.cn/
 , kaggle, , https://www.kaggle.com/
+}}
+
+### 其他
+{{#datasheet:🌐
+, Lofi cafe, 7X24小时lofi音乐电台,https://www.lofi.cafe/
 }}

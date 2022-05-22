@@ -24,7 +24,7 @@
 
 {{#datasheet:
 ✨, Motrix, 下载工具，支持ftp、BT、磁力链接等, https://motrix.app/zh-CN/
-✨, YesPlayMusic, 第三方网易云，全平台可安装，也有web版, https://github.com/qier222/YesPlayMusic
+✨, YesPlayMusic, 第三方网易云，全平台可安装，Q也有web版, https://github.com/qier222/YesPlayMusic
 }}
 
 ### 浏览器插件

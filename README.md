@@ -222,7 +222,7 @@ CSS框架太多了，在此只列举几个：
 ### 跨平台工具箱
 
 1. ✨**Motrix**：下载工具，支持ftp、BT、磁力链接等 https://motrix.app/zh-CN/
-2. ✨**YesPlayMusic**：第三方网易云，全平台可安装，也有web版 https://github.com/qier222/YesPlayMusic
+2. ✨**YesPlayMusic**：第三方网易云，全平台可安装，Q也有web版 https://github.com/qier222/YesPlayMusic
 
 
 ### 浏览器插件
@@ -318,6 +318,7 @@ CSS框架太多了，在此只列举几个：
 2. 🌐**Bootstrap 图标库**：https://icons.bootcss.com/
 3. 🌐**xicons**：图标库 https://www.xicons.org/
 4. 🌐**iconfont**：图标库 https://www.iconfont.cn/
+5. 🌐**Nerd Fonts**：合并了Awesome等字符集的字体，https://www.nerdfonts.com/
 
 
 ### 资料/书籍
@@ -342,4 +343,8 @@ CSS框架太多了，在此只列举几个：
    - 英文：https://data.worldbank.org/
    - 中文：https://data.worldbank.org.cn/
 2. 🌐**kaggle**：https://www.kaggle.com/
+
+
+### 其他
+1. 🌐**Lofi cafe**：7X24小时lofi音乐电台 https://www.lofi.cafe/
 
