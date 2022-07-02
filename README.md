@@ -324,7 +324,7 @@ CSS框架太多了，在此只列举几个：
 6. 🌐**Nerd Fonts**：合并了Awesome等字符集的字体，https://www.nerdfonts.com/
 7. 🌐**cubic-bezier**：三次贝塞尔曲线编辑，用于css的非线性动画 https://cubic-bezier.com/
 8. 🌐**materialpalette**：Material Design的色卡，也有对应的图标库 https://www.materialpalette.com/
-9. 🌐，Adobe Color**Abode的在线调色盘**：https://color.adobe.com/zh/create/color-wheel
+9. 🌐**Adobe Color**：Adobe的在线调色盘 https://color.adobe.com/zh/create/color-wheel
 10. 🌐**uiGradients**：渐变色色卡 https://uigradients.com
 11. 🌐**nippon colors**：日本的传统颜色 https://nipponcolors.com
 12. 🌐**中国色**：中国的传统颜色 http://zhongguose.com
@@ -355,6 +355,7 @@ CSS框架太多了，在此只列举几个：
    - 中文：https://data.worldbank.org.cn/
 2. 🌐**联合国数据**：https://data.un.org/
 3. 🌐**kaggle**：https://www.kaggle.com/
+4. 🌐**Nasdaq**：纳斯达克的市场数据 https://www.nasdaq.com/market-activity
 
 
 ### 其他
