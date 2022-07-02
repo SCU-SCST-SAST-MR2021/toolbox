@@ -23,7 +23,7 @@
 🪟✨, Notepads, 文本编辑器，较前者更为美观，是Windows记事本的另一个替代品, https://www.notepadsapp.com/
 💰, Typora, 很好用的Markdown编辑器, https://typora.io/
 ✨, MarkText, 一般好用的Markdown编辑器，Typora的下位替代, https://github.com/marktext/marktext
-🆓, Obsidian, 个人知识库（Markdown笔记管理工具）, https://obsidian.md/
+🆓, Obsidian, 个人知识库（Markdown笔记管理工具，基础版免费）, https://obsidian.md/
 }}
 
 ### 辅助开发
@@ -36,7 +36,8 @@
 ✨, Anaconda, Python和R语言的包管理工具, https://www.anaconda.com/
 ✨, Maven, Java项目构建和依赖管理的工具, https://maven.apache.org/
 🆓, Postman, 构建http 请求，测试api（基础版免费）, https://www.postman.com/
-🪟✨, Windows terminal, 微软出品的windows下模拟终端程序，好看高效, https://github.com/microsoft/terminal
+🪟✨, Windows Terminal, 微软出品的Windows下模拟终端程序，好看高效（已集成进Windows 11）, https://github.com/microsoft/terminal
 🪟✨, MSYS2, windows下的pacman包管理工具, https://www.msys2.org/
 ✨, lazygit, 好用的git的tui工具, https://github.com/jesseduffield/lazygit
+🆓, Luancy, 前端设计工具，画大饼专用, https://icons8.com/lunacy
 }}
