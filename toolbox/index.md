@@ -26,8 +26,8 @@
   
 {{#include: devtools.md}}
 
-{{#include: lang.md}}
-
 {{#include: othersofts.md}}
 
 {{#include: othersites.md}}
+
+{{#include: lang.md}}
