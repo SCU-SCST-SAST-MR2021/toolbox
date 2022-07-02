@@ -66,7 +66,7 @@
 , Nerd Fonts, 合并了Awesome等字符集的字体，https://www.nerdfonts.com/
 , cubic-bezier, 三次贝塞尔曲线编辑，用于css的非线性动画, https://cubic-bezier.com/
 , materialpalette, Material Design的色卡，也有对应的图标库, https://www.materialpalette.com/
-，Adobe Color, Abode的在线调色盘, https://color.adobe.com/zh/create/color-wheel
+, Adobe Color, Adobe的在线调色盘, https://color.adobe.com/zh/create/color-wheel
 , uiGradients, 渐变色色卡, https://uigradients.com
 , nippon colors, 日本的传统颜色, https://nipponcolors.com
 , 中国色, 中国的传统颜色, http://zhongguose.com
@@ -91,6 +91,7 @@
 , 世界银行公开数据, , https://data.worldbank.org/, https://data.worldbank.org.cn/
 , 联合国数据, , https://data.un.org/
 , kaggle, , https://www.kaggle.com/
+, Nasdaq, 纳斯达克的市场数据 ,https://www.nasdaq.com/market-activity
 }}
 
 ### 其他
