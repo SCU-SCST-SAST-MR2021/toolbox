@@ -10,7 +10,7 @@
 🆓, WebStorm, JetBrains出品，用于前端开发（教育版免费✱）, https://www.jetbrains.com/webstorm/
 🆓, CLion, JetBrains出品，用于C/C++开发（教育版免费✱）, https://www.jetbrains.com/clion
 🆓, GoLand, JetBrains出品，用于golang开发（教育版免费✱）, https://www.jetbrains.com/go
-🆓, 微信开发者工具, 腾讯出品，用于开发微信小程序, https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
+🪟🐧🆓, 微信开发者工具, 腾讯出品，用于开发微信小程序, https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
 💰, Github Codespaces, Github推出的在线IDE，界面与**VS Code**相似, https://docs.github.com/en/codespaces, https://docs.github.com/cn/codespaces
 }}
 
@@ -21,8 +21,9 @@
 💰, Sublime Text 3, 文本编辑器，也可用于前端开发, https://www.sublimetext.com/
 🪟✨, Notepad++, 文本编辑器，一般用于替代Windows的内置记事本, https://notepad-plus-plus.org/
 🪟✨, Notepads, 文本编辑器，较前者更为美观，是Windows记事本的另一个替代品, https://www.notepadsapp.com/
-🆓, Typora, 很好用的Markdown编辑器, https://typora.io/
-✨, MarkText, 一般好用的Markdown编辑器, https://github.com/marktext/marktext
+💰, Typora, 很好用的Markdown编辑器, https://typora.io/
+✨, MarkText, 一般好用的Markdown编辑器，Typora的下位替代, https://github.com/marktext/marktext
+🆓, Obsidian, 个人知识库（Markdown笔记管理工具）, https://obsidian.md/
 }}
 
 ### 辅助开发
