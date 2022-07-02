@@ -214,40 +214,44 @@ CSS框架太多了，在此只列举几个：
 6. 🪟✨**ScreenToGif**：录制屏幕并制作gif https://www.screentogif.com/
 7. 🪟💰**Internet Download Manager (IDM)**：文件下载器 https://www.internetdownloadmanager.com/
 8. 🪟✨**PowerToys**：Microsoft推出的工具箱，一系列小工具的集合 https://github.com/microsoft/PowerToys
-9. 🪟✨**Wox**：Windows启动器，与**Everything**结合使用效果更佳 https://github.com/Wox-launcher/Wox
+9. 🪟✨**Wox**：Windows启动器，与**Everything**结合使用效果更佳（PowerToys整合了一部分功能） https://github.com/Wox-launcher/Wox
 10. 🪟✨**QuickLook**：用空格键快速查看文件信息，MacOS同名功能的Windows版 https://github.com/QL-Win/QuickLook
 11. 🪟✨**Ditto**：Windows剪贴板扩展 https://ditto-cp.sourceforge.io/
 12. 🪟✨**Sumatra PDF**：轻量级PDF阅读器，同时支持ePub、MOBI、CHM、XPS、DjVu等多种电子书格式 https://www.sumatrapdfreader.org/free-pdf-reader
 13. 🪟✨**MacType**：为Windows系统安装苹果字体 https://www.mactype.net/
 
 
-### 跨平台工具箱
+### 跨平台工具
 
 1. ✨**Motrix**：下载工具，支持ftp、BT、磁力链接等 https://motrix.app/zh-CN/
 2. ✨**YesPlayMusic**：第三方网易云，全平台可安装，Q也有web版 https://github.com/qier222/YesPlayMusic
+3. ✨**Activity Watch**：追踪你使用计算机的时间 https://github.com/ActivityWatch/activitywatch
+4. ✨**Zotero**：个人文献管理工具 https://www.zotero.org/
+5. ✨，FlameShot**Snipaste的跨平台替代品**：https://github.com/flameshot-org/flameshot
+6. ✨**OBS**：直播推流工具，同时也能用作录屏软件 https://obsproject.com/
 
 
 ### 浏览器插件
-适用于Chromium内核的浏览器，如Chrome与Microsoft Edge。
+以下的适用于Chromium内核的浏览器，如Chrome与Microsoft Edge。
 
 1. 📦**Clear New Tab**：用图片做首页。
 2. 📦**Infinity Tab**：好用的new tab插件。
 3. 📦**HTTPS Everywhere**：加密网络浏览，自动使用 HTTPS 连接访问站点
-4. 📦**Tampermonkey**：加载自定义JavaScript脚本
+4. 📦**AdBlock**：广告拦截工具
 5. 📦**FireShot**：捕捉网页截图
 6. 📦**OneTab**：一键整理标签页
-7. 📦**Stylish**：加载自定义CSS
-8. 📦**Speedtest**：测速
+7. 📦**Tampermonkey**：加载自定义JavaScript脚本
+8. 📦**Stylish**：加载自定义CSS
+9. 📦**Speedtest**：测速工具
 
 
 ### 虚拟机/子系统
 
-想在Windows上体验Linux/在MacOS上体验Windows和Linux/Linux上体验Windows 的同学可以试试。
+想 在Windows上体验Linux/在MacOS上体验Windows和Linux/在Linux上体验Windows 的同学可以试试。
 
 1. 🪟🐧💰**VMware Workstation**：虚拟机 https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html
-2. 🪟🐧🍏✨**VirtualBox***：虚拟机，功能比VMware少 https://www.virtualbox.org/
+2. ✨**VirtualBox**：虚拟机，功能比VMware少 https://www.virtualbox.org/
 3. 🪟🆓**Windows Subsystem for Linux (WSL)**：在Windows上使用主流Linux发行版的另一种方式 https://docs.microsoft.com/en-us/windows/wsl/
-
 
 
 ### 硬件信息
@@ -257,6 +261,7 @@ CSS框架太多了，在此只列举几个：
 3. 🪟✨**CrystalDiskInfo**：查看硬盘信息 https://crystalmark.info/en/software/crystaldiskinfo/
 4. 🪟✨**CrystalDiskMark**：硬盘测试软件 https://crystalmark.info/en/software/crystaldiskmark/
 5. 🪟✨**WinDirStat**：磁盘使用量统计分析器 https://windirstat.net
+
 
 
 <!-- included file: othersites.md -->
