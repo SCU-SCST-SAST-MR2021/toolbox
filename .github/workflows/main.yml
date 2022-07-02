@@ -3,7 +3,6 @@
 name: build README.md
 
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
     branches: [ "main" ]
     
@@ -17,4 +16,14 @@ jobs:
           python-version: 3.9
       
       - name: generate README.md
-        run: python3 build.py
+        run: |
+          cd ${{ github.workspace }}
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          python3 build.py
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
