@@ -39,7 +39,7 @@
 5. 🆓**WebStorm**：JetBrains出品，用于前端开发（教育版免费✱） https://www.jetbrains.com/webstorm/
 6. 🆓**CLion**：JetBrains出品，用于C/C++开发（教育版免费✱） https://www.jetbrains.com/clion
 7. 🆓**GoLand**：JetBrains出品，用于golang开发（教育版免费✱） https://www.jetbrains.com/go
-8. 🆓**微信开发者工具**：腾讯出品，用于开发微信小程序 https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
+8. 🪟🐧🆓**微信开发者工具**：腾讯出品，用于开发微信小程序 https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
 9. 💰**Github Codespaces**：Github推出的在线IDE，界面与**VS Code**相似 
    - 英文：https://docs.github.com/en/codespaces
    - 中文：https://docs.github.com/cn/codespaces
@@ -51,8 +51,9 @@
 1. 💰**Sublime Text 3**：文本编辑器，也可用于前端开发 https://www.sublimetext.com/
 2. 🪟✨**Notepad++**：文本编辑器，一般用于替代Windows的内置记事本 https://notepad-plus-plus.org/
 3. 🪟✨**Notepads**：文本编辑器，较前者更为美观，是Windows记事本的另一个替代品 https://www.notepadsapp.com/
-4. 🆓**Typora**：很好用的Markdown编辑器 https://typora.io/
-5. ✨**MarkText**：一般好用的Markdown编辑器 https://github.com/marktext/marktext
+4. 💰**Typora**：很好用的Markdown编辑器 https://typora.io/
+5. ✨**MarkText**：一般好用的Markdown编辑器，Typora的下位替代 https://github.com/marktext/marktext
+6. 🆓**Obsidian**：个人知识库（Markdown笔记管理工具） https://obsidian.md/
 
 
 ### 辅助开发
