@@ -25,6 +25,7 @@
 , Khan Academy, , https://www.khanacademy.org/
 , 中国大学MOOC, , https://www.icourse163.org/
 , 廖雪峰的官方网站, , https://www.liaoxuefeng.com/
+, bilibili, b站上有很多学习资源, https://www.bilibili.com/
 }}
 
 ### 工具
@@ -51,17 +52,24 @@
 , Emojipedia, emoji百科, https://emojipedia.org/
 , Forvo, 发音词典，收集了世界上大量不同语言的单词的发音, https://zh.forvo.com/
 , 维基词典, , https://zh.wiktionary.org/
-, Encyclopedia Britannica, （大英百科全书）：https://www.britannica.com/
+, Encyclopedia Britannica（大英百科全书）, ,https://www.britannica.com/
 }}
 
 ### 设计资源
 
 {{#datasheet:🌐
-, Google Fonts, 谷歌字体，其上所有字体皆可免费使用, https://fonts.google.com/icons
+, Google Fonts, 谷歌字体，其上所有字体皆免费可商用, https://fonts.google.com/icons
 , Bootstrap 图标库, , https://icons.bootcss.com/
 , xicons, 图标库, https://www.xicons.org/
 , iconfont, 图标库, https://www.iconfont.cn/
+, icons8, 图标库, https://icons8.com/icons
 , Nerd Fonts, 合并了Awesome等字符集的字体，https://www.nerdfonts.com/
+, cubic-bezier, 三次贝塞尔曲线编辑，用于css的非线性动画, https://cubic-bezier.com/
+, materialpalette, Material Design的色卡，也有对应的图标库, https://www.materialpalette.com/
+，Adobe Color, Abode的在线调色盘, https://color.adobe.com/zh/create/color-wheel
+, uiGradients, 渐变色色卡, https://uigradients.com
+, nippon colors, 日本的传统颜色, https://nipponcolors.com
+, 中国色, 中国的传统颜色, http://zhongguose.com
 }}
 
 ### 资料/书籍
@@ -73,16 +81,19 @@
 , Project Gutenberg, , https://www.gutenberg.org/
 , z-Library, , https://z-lib.org
 , dblp, 计算机领域科学文献目录, https://dblp.org/
+, MagazineLib, ,https://magazinelib.com/
+, sci-hub, , https://sci-hub.se/
 }}
 
 ### 数据/数据集
 
 {{#datasheet:🌐
 , 世界银行公开数据, , https://data.worldbank.org/, https://data.worldbank.org.cn/
+, 联合国数据, , https://data.un.org/
 , kaggle, , https://www.kaggle.com/
 }}
 
 ### 其他
 {{#datasheet:🌐
-, Lofi cafe, 7X24小时lofi音乐电台,https://www.lofi.cafe/
+, Lofi cafe, 7X24小时lofi音乐电台, https://www.lofi.cafe/
 }}
