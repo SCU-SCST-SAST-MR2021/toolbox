@@ -284,6 +284,7 @@ CSS框架太多了，在此只列举几个：
 4. 🌐**Khan Academy**：https://www.khanacademy.org/
 5. 🌐**中国大学MOOC**：https://www.icourse163.org/
 6. 🌐**廖雪峰的官方网站**：https://www.liaoxuefeng.com/
+7. 🌐**bilibili**：b站上有很多学习资源 https://www.bilibili.com/
 
 
 ### 工具
@@ -310,16 +311,23 @@ CSS框架太多了，在此只列举几个：
 4. 🌐**Emojipedia**：emoji百科 https://emojipedia.org/
 5. 🌐**Forvo**：发音词典，收集了世界上大量不同语言的单词的发音 https://zh.forvo.com/
 6. 🌐**维基词典**：https://zh.wiktionary.org/
-7. 🌐**Encyclopedia Britannica**：（大英百科全书）：https://www.britannica.com/
+7. 🌐**Encyclopedia Britannica（大英百科全书）**：https://www.britannica.com/
 
 
 ### 设计资源
 
-1. 🌐**Google Fonts**：谷歌字体，其上所有字体皆可免费使用 https://fonts.google.com/icons
+1. 🌐**Google Fonts**：谷歌字体，其上所有字体皆免费可商用 https://fonts.google.com/icons
 2. 🌐**Bootstrap 图标库**：https://icons.bootcss.com/
 3. 🌐**xicons**：图标库 https://www.xicons.org/
 4. 🌐**iconfont**：图标库 https://www.iconfont.cn/
-5. 🌐**Nerd Fonts**：合并了Awesome等字符集的字体，https://www.nerdfonts.com/
+5. 🌐**icons8**：图标库 https://icons8.com/icons
+6. 🌐**Nerd Fonts**：合并了Awesome等字符集的字体，https://www.nerdfonts.com/
+7. 🌐**cubic-bezier**：三次贝塞尔曲线编辑，用于css的非线性动画 https://cubic-bezier.com/
+8. 🌐**materialpalette**：Material Design的色卡，也有对应的图标库 https://www.materialpalette.com/
+9. 🌐，Adobe Color**Abode的在线调色盘**：https://color.adobe.com/zh/create/color-wheel
+10. 🌐**uiGradients**：渐变色色卡 https://uigradients.com
+11. 🌐**nippon colors**：日本的传统颜色 https://nipponcolors.com
+12. 🌐**中国色**：中国的传统颜色 http://zhongguose.com
 
 
 ### 资料/书籍
@@ -336,6 +344,8 @@ CSS框架太多了，在此只列举几个：
 4. 🌐**Project Gutenberg**：https://www.gutenberg.org/
 5. 🌐**z-Library**：https://z-lib.org
 6. 🌐**dblp**：计算机领域科学文献目录 https://dblp.org/
+7. 🌐**MagazineLib**：https://magazinelib.com/
+8. 🌐**sci-hub**：https://sci-hub.se/
 
 
 ### 数据/数据集
@@ -343,9 +353,11 @@ CSS框架太多了，在此只列举几个：
 1. 🌐**世界银行公开数据**：
    - 英文：https://data.worldbank.org/
    - 中文：https://data.worldbank.org.cn/
-2. 🌐**kaggle**：https://www.kaggle.com/
+2. 🌐**联合国数据**：https://data.un.org/
+3. 🌐**kaggle**：https://www.kaggle.com/
 
 
 ### 其他
 1. 🌐**Lofi cafe**：7X24小时lofi音乐电台 https://www.lofi.cafe/
+
 
