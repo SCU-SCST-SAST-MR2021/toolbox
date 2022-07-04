@@ -10,7 +10,7 @@
 🆓, WebStorm, JetBrains出品，用于前端开发（教育版免费✱）, https://www.jetbrains.com/webstorm/
 🆓, CLion, JetBrains出品，用于C/C++开发（教育版免费✱）, https://www.jetbrains.com/clion
 🆓, GoLand, JetBrains出品，用于golang开发（教育版免费✱）, https://www.jetbrains.com/go
-🪟🐧🆓, 微信开发者工具, 腾讯出品，用于开发微信小程序, https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
+🪟🍏🆓, 微信开发者工具, 腾讯出品，用于开发微信小程序, https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
 💰, Github Codespaces, Github推出的在线IDE，界面与**VS Code**相似, https://docs.github.com/en/codespaces, https://docs.github.com/cn/codespaces
 }}
 
