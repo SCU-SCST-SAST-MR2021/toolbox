@@ -27,7 +27,7 @@
 ✨, YesPlayMusic, 第三方网易云，全平台可安装，Q也有web版, https://github.com/qier222/YesPlayMusic
 ✨, Activity Watch, 追踪你使用计算机的时间, https://github.com/ActivityWatch/activitywatch
 ✨, Zotero, 个人文献管理工具, https://www.zotero.org/
-✨，FlameShot, Snipaste的跨平台替代品, https://github.com/flameshot-org/flameshot
+✨, FlameShot, Snipaste的跨平台替代品, https://github.com/flameshot-org/flameshot
 ✨, OBS, 直播推流工具，同时也能用作录屏软件, https://obsproject.com/
 }}
 
