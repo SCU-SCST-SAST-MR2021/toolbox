@@ -386,5 +386,30 @@ CSS框架太多了，在此只列举几个：
    - 英文：https://www.w3schools.com/
    - 中文：https://www.w3school.com.cn/
 
+
+### Golang
+
+下面的**Go**与**Golang**皆指Golang编程语言。
+
+1. 🌐**Golang官网**：https://go.dev/
+2. ✨**Golang源码**：https://github.com/golang/go
+3. 🌐**Golang官方教程**：https://go.dev/doc/
+4. 🌐📖**Golang编程语言**：“Go语言圣经” 
+   - 英文：https://www.gopl.io
+   - 中文：https://books.studygolang.com/gopl-zh/
+5. 🌐📖**Go语言高级编程**：https://chai2010.cn/advanced-go-programming-book/
+
+
+### Rust
+
+1. 🌐**Rust官网**：https://www.rust-lang.org/
+2. ✨**Rust源码**：https://github.com/rust-lang/rust
+3. ✨**rustlings**：Rust的一些官方小练习，适合初学者快速上手Rust语言 https://github.com/rust-lang/rustlings/
+4. 🌐📖**Rust编程语言**：“Rust语言圣经” 
+   - 英文：https://doc.rust-lang.org/book/
+   - 中文：https://kaisery.github.io/trpl-zh-cn
+5. 🌐📖**“锈书”**：Rust语言进阶教程（非官方） https://rusty.rs/about.html
+
+
 <!-- end of lang.md -->
 
