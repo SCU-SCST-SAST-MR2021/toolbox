@@ -104,3 +104,25 @@ CSS框架太多了，在此只列举几个：
 , 菜鸟教程, [HTML 教程](https://www.runoob.com/html/html-tutorial.html) | [JavaScript 教程](https://www.runoob.com/js/js-tutorial.html) | [CSS 教程](https://www.runoob.com/css/css-tutorial.html)
 , W3school, , https://www.w3schools.com/, https://www.w3school.com.cn/
 }}
+
+### Golang
+
+下面的**Go**与**Golang**皆指Golang编程语言。
+
+{{#datasheet:
+🌐, Golang官网, , https://go.dev/
+✨, Golang源码, , https://github.com/golang/go
+🌐, Golang官方教程, , https://go.dev/doc/
+🌐📖, Golang编程语言, “Go语言圣经”, https://www.gopl.io, https://books.studygolang.com/gopl-zh/
+🌐📖, Go语言高级编程, , https://chai2010.cn/advanced-go-programming-book/
+}}
+
+### Rust
+
+{{#datasheet:
+🌐, Rust官网, , https://www.rust-lang.org/
+✨, Rust源码, , https://github.com/rust-lang/rust
+✨, rustlings, Rust的一些官方小练习，适合初学者快速上手Rust语言, https://github.com/rust-lang/rustlings/
+🌐📖, Rust编程语言, “Rust语言圣经”, https://doc.rust-lang.org/book/, https://kaisery.github.io/trpl-zh-cn
+🌐📖, “锈书”, Rust语言进阶教程（非官方）, https://rusty.rs/about.html
+}}
