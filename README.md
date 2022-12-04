@@ -28,7 +28,7 @@
 
   
 <!-- included file: devtools.md -->
-## 开发工具类
+## 开发工具
 
 ### 集成开发环境 (IDE)
 
@@ -69,11 +69,14 @@
 9. 🪟✨**MSYS2**：windows下的pacman包管理工具 https://www.msys2.org/
 10. ✨**lazygit**：好用的git的tui工具 https://github.com/jesseduffield/lazygit
 11. 🆓**Luancy**：前端设计工具，画大饼专用 https://icons8.com/lunacy
+12. ✨**SQLite Viewer**：查看SQLite数据库文件的小工具 https://inloop.github.io/sqlite-viewer/
 
+
+<!-- end of devtools.md -->
 
 
 <!-- included file: othersofts.md -->
-## 其它软件
+## 一些软件
 
 ### Windows工具箱
 
@@ -94,28 +97,33 @@
 13. 🪟✨**MacType**：为Windows系统安装苹果字体 https://www.mactype.net/
 
 
-### 跨平台工具
+### 跨平台软件
 
 1. ✨**Motrix**：下载工具，支持ftp、BT、磁力链接等 https://motrix.app/zh-CN/
-2. ✨**YesPlayMusic**：第三方网易云，全平台可安装，Q也有web版 https://github.com/qier222/YesPlayMusic
+2. ✨**YesPlayMusic**：第三方网易云，全平台可安装，也有web版 https://github.com/qier222/YesPlayMusic
 3. ✨**Activity Watch**：追踪你使用计算机的时间 https://github.com/ActivityWatch/activitywatch
 4. ✨**Zotero**：个人文献管理工具 https://www.zotero.org/
 5. ✨**FlameShot**：Snipaste的跨平台替代品 https://github.com/flameshot-org/flameshot
 6. ✨**OBS**：直播推流工具，同时也能用作录屏软件 https://obsproject.com/
+7. ✨**ONLYOFFICE**：办公套件，是Linux平台Microsoft Office的优秀替代品 https://www.onlyoffice.com/ https://github.com/ONLYOFFICE
+8. ✨**draw.io**：开源的流程图绘图软件 https://github.com/jgraph/drawio https://draw.io
+9. ✨**Icalingua++**：第三方QQ客户端<s>，Linux用户的救星</s> https://github.com/Icalingua-plus-plus/Icalingua-plus-plus
+10. ✨**Cider**：第三方Apple Music客户端（开源，但是拥有Apple Music会员才能正常使用） https://cider.sh/ https://github.com/ciderapp/Cider
+11. ✨**Syncthing**：文件同步工具，如果你有多台PC可以用它来同步与备份文件 https://github.com/syncthing/syncthing
 
 
 ### 浏览器插件
-以下的适用于Chromium内核的浏览器，如Chrome与Microsoft Edge。
+以下的适用于Chromium内核的浏览器，如Chrome与Microsoft Edge。图标🦊表示这个插件也支持Firefox。
 
-1. 📦**Clear New Tab**：用图片做首页。
-2. 📦**Infinity Tab**：好用的new tab插件。
-3. 📦**HTTPS Everywhere**：加密网络浏览，自动使用 HTTPS 连接访问站点
-4. 📦**AdBlock**：广告拦截工具
+1. 📦🦊**Clear New Tab**：用图片做首页。
+2. 📦🦊**Infinity Tab**：好用的new tab插件。
+3. 📦🦊**HTTPS Everywhere**：加密网络浏览，自动使用 HTTPS 连接访问站点
+4. 📦🦊**AdBlock**：广告拦截工具
 5. 📦**FireShot**：捕捉网页截图
-6. 📦**OneTab**：一键整理标签页
-7. 📦**Tampermonkey**：加载自定义JavaScript脚本
-8. 📦**Stylish**：加载自定义CSS
-9. 📦**Speedtest**：测速工具
+6. 📦🦊**OneTab**：一键整理标签页
+7. 📦🦊**Tampermonkey**：加载自定义JavaScript脚本
+8. 📦🦊**Stylish**：加载自定义CSS
+9. 📦🦊**Speedtest**：测速工具
 
 
 ### 虚拟机/子系统
@@ -136,9 +144,11 @@
 5. 🪟✨**WinDirStat**：磁盘使用量统计分析器 https://windirstat.net
 
 
+<!-- end of othersofts.md -->
+
 
 <!-- included file: othersites.md -->
-## 其它网站
+## 一些网站
 
 其中有些需要科学上网才能访问。
 
@@ -178,6 +188,8 @@
 8. 🌐**Mag[i]**：机器学习加持的信息检索系统 https://magi.com/
 9. 🌐**Wayback Machine**：网站时光机 https://web.archive.org/
 10. 🌐**Archive.today**：网页存档站 https://archive.is/
+11. 🌐**Google Scholar**：谷歌学术 https://scholar.google.com/
+12. 🌐**百度学术**：https://xueshu.baidu.com/
 
 
 ### 百科类
@@ -207,6 +219,8 @@
 10. 🌐**uiGradients**：渐变色色卡 https://uigradients.com
 11. 🌐**nippon colors**：日本的传统颜色 https://nipponcolors.com
 12. 🌐**中国色**：中国的传统颜色 http://zhongguose.com
+13. 🌐**CSS Gradient**：创建css渐变色的小工具 https://cssgradient.io
+14. 🌐**Pexels**：免费图片与视频素材下载 https://www.pexels.com/zh-cn/
 
 
 ### 资料/书籍
@@ -221,7 +235,7 @@
    - 英文：https://ctext.org/ens
    - 中文：https://ctext.org/zhs
 4. 🌐**Project Gutenberg**：https://www.gutenberg.org/
-5. 🌐**z-Library**：https://z-lib.org
+5. 🌐**z-Library**：<s>https://z-lib.org</s>（已被美国政府封禁）R.I.P.
 6. 🌐**dblp**：计算机领域科学文献目录 https://dblp.org/
 7. 🌐**MagazineLib**：https://magazinelib.com/
 8. 🌐**sci-hub**：https://sci-hub.se/
@@ -239,7 +253,11 @@
 
 ### 其他
 1. 🌐**Lofi cafe**：7X24小时lofi音乐电台 https://www.lofi.cafe/
+2. 🌐**Hugging Face**：人工智能模型与数据集的共享平台 https://huggingface.co
+3. 🌐**Papers With Code**：和Hugging Face类似，但是侧重于论文与论文复现 https://paperswithcode.com/
 
+
+<!-- end of othersites.md -->
 
 
 <!-- included file: lang.md -->
@@ -367,4 +385,6 @@ CSS框架太多了，在此只列举几个：
 3. 🌐**W3school**：
    - 英文：https://www.w3schools.com/
    - 中文：https://www.w3school.com.cn/
+
+<!-- end of lang.md -->
 

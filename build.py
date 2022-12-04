@@ -38,7 +38,7 @@ def parsefile(path):
     t=open(path,encoding="utf-8").read()
     t=re.sub(r'{{#datasheet *: *([^)}{\n ]*?) *\n(.*?)}}',lambda x:parseinlinedatasheet(x[2],x[1]),t,flags=re.M|re.DOTALL)
     t=re.sub(r'{{#includedatasheet *: *([a-zA-Z0-9_\-\\//.]+)(?:| *\| *([^)}{\n ]+?)) *}}',lambda x:parsedatasheet(os.path.join(dir,x[1]),x[2]),t,flags=re.M)
-    t=re.sub(r'{{#include *: *([a-zA-Z0-9_\-\\//.]+) *}}',lambda x:f"<!-- included file: {x[1]} -->\n"+parsefile(os.path.join(dir,x[1])),t,flags=re.M)
+    t=re.sub(r'{{#include *: *([a-zA-Z0-9_\-\\//.]+) *}}',lambda x:f"<!-- included file: {x[1]} -->\n"+parsefile(os.path.join(dir,x[1]))+f"\n<!-- end of {x[1]} -->\n",t,flags=re.M)
     t=re.sub(r'{{#insertWarning *}}',WARNING,t,flags=re.M|re.DOTALL)
     t=re.sub(r'{{#([^}{]+?)}}',lambda x:f'<!--{x[1]}-->',t,flags=re.M|re.DOTALL)
     return t

@@ -1,4 +1,4 @@
-## 开发工具类
+## 开发工具
 
 ### 集成开发环境 (IDE)
 
@@ -40,4 +40,5 @@
 🪟✨, MSYS2, windows下的pacman包管理工具, https://www.msys2.org/
 ✨, lazygit, 好用的git的tui工具, https://github.com/jesseduffield/lazygit
 🆓, Luancy, 前端设计工具，画大饼专用, https://icons8.com/lunacy
+✨, SQLite Viewer, 查看SQLite数据库文件的小工具, https://inloop.github.io/sqlite-viewer/
 }}

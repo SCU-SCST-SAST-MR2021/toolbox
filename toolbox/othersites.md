@@ -1,4 +1,4 @@
-## 其它网站
+## 一些网站
 
 其中有些需要科学上网才能访问。
 
@@ -41,6 +41,8 @@
 , Mag[i], 机器学习加持的信息检索系统, https://magi.com/
 , Wayback Machine, 网站时光机, https://web.archive.org/
 , Archive.today, 网页存档站, https://archive.is/
+, Google Scholar, 谷歌学术, https://scholar.google.com/
+, 百度学术, , https://xueshu.baidu.com/
 }}
 
 ### 百科类
@@ -70,6 +72,8 @@
 , uiGradients, 渐变色色卡, https://uigradients.com
 , nippon colors, 日本的传统颜色, https://nipponcolors.com
 , 中国色, 中国的传统颜色, http://zhongguose.com
+, CSS Gradient, 创建css渐变色的小工具, https://cssgradient.io
+, Pexels, 免费图片与视频素材下载, https://www.pexels.com/zh-cn/
 }}
 
 ### 资料/书籍
@@ -79,7 +83,7 @@
 , 世界数字图书馆, , https://www.wdl.org/en/, https://www.wdl.org/zh/
 , 中国哲学书电子化计划, , https://ctext.org/ens, https://ctext.org/zhs
 , Project Gutenberg, , https://www.gutenberg.org/
-, z-Library, , https://z-lib.org
+, z-Library, , <s>https://z-lib.org</s>（已被美国政府封禁）R.I.P.
 , dblp, 计算机领域科学文献目录, https://dblp.org/
 , MagazineLib, ,https://magazinelib.com/
 , sci-hub, , https://sci-hub.se/
@@ -97,4 +101,6 @@
 ### 其他
 {{#datasheet:🌐
 , Lofi cafe, 7X24小时lofi音乐电台, https://www.lofi.cafe/
+, Hugging Face, 人工智能模型与数据集的共享平台, https://huggingface.co
+, Papers With Code, 和Hugging Face类似，但是侧重于论文与论文复现, https://paperswithcode.com/
 }}
